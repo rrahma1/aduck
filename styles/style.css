@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Page Layout Start*/
+* 	{
+	color: #CCCCCC;
+}
+
+body {
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: center;
+		background-color:#009999;
+}
+
+a	{
+	color: #00F;
+}
+
+.egg{
+		padding-top: 2000px;
+		display:block;
+		}
+
+/* Page Layout Stop*/
+	
